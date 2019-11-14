@@ -5,7 +5,7 @@
       "bio": "Hello my name is Ever Curiel:\r\n-Systems engineer\r\n-Software technologist\r\n-Founder and CEO of Xaureo Technologies\r\n-Co-Founder of QA Dominicana\r\n-QA Sub manager at BHDLEON\r\n-6+ years of experience in Software Engineering\r\n-Award for technological innovation in private banking 2019\r\n-Lover of innovation\r\n-Speaker, Philanthropist and Christian",
       "Pais": "Dominican Republic",
       "charla": "A friendly introduction to QA",
-      "imagen": "evermiguelcuriel.jpg",
+      "imagen": "../img/charlistas/evermiguelcuriel.jpg",
       "formato": "Talk (~30-45 minutes)",
       "audienceLevel": "All",
       "tags": [
@@ -25,7 +25,7 @@
     },
     {
       "nombre": "Gabriel Acosta Nuñez",
-      "imagen": "gabrielacosta.jpg",
+      "imagen": "../img/charlistas/gabrielacosta.jpg",
       "charla": "Building App Xamirn forms Using Uno platform",
       "formato": "Talk (~30-45 minutes)",
       "audienceLevel": "All",
@@ -41,7 +41,7 @@
     },
     {
       "nombre": "Rafael Miguel Dorville Collado",
-      "imagen": "rafaeldorville.jpg",
+      "imagen": "../img/charlistas/rafaeldorville.jpg",
       "bio": "Ingeniero telemático con más de 7 años de experiencia en el área de Servidores,  desde 2018 vengo incursionando en temas de Inteligencias de Negocios y Big Data trabajando en temas relacionados con modelos predictivos, particularmente en predicciones de averías en empresas de telecomunicaciones. Soy amante de la música y siempre tengo que estar escuchando algo cuando necesito máxima concentración. ",
       "charla": "Análisis de Redes Sociales",
       "formato": "Talk (~30-45 minutes)",
@@ -63,7 +63,7 @@
     },
     {
       "nombre": "Franklin Castillo",
-      "imagen": "franklincastillo.jpg",
+      "imagen": "../img/charlistas/franklincastillo.jpg",
       "bio": "Soy Java Developer vivo en Santo Domingo y me encanta estar al tanto de nuevos temas en el área de desarrollo de software y con gran interés en el área de analítica y data science. En lo personal me viajar al interior de mi país y conocer la mayor cantidad de lugares posibles y de ver series en Netflix xD\r\n\r\nDiría que mi reto personal más grande en esto momentos es correr un Maratón (sí, me encanta el running)  y ademas tomar algun lenguaje de programación en 7 dias (por lo visto aun no tengo el nivel Ninja) :smile\r\n",
       "charla": "JAMstack, the new Modern Web Architecture",
       "abstract": "JAMstack es una arquitectura moderna de desarrollo web. No es un lenguaje de programación ni ninguna forma de herramienta. Es más una práctica de desarrollo web destinada a hacer cumplir un mejor rendimiento, una mayor seguridad, un menor costo de escala y una mejor experiencia del desarrollador.",
@@ -94,7 +94,7 @@
     },
     {
       "nombre": "Robert Lluberes",
-      "imagen": "robertlluberes.jpg",
+      "imagen": "../img/charlistas/robertlluberes.jpg",
       "bio": "Soy egresado  de  la  Universidad  Dominicana  O&M  como Ingeniero  en  Sistemas  y  Computación. Mis más  de  8 años de experiencia en el área de tecnología, evidencian la dedicación y empeño que invierto en alcanzar mis objetivos.  Tengo 3 de  esos  años en una  de  mis  pasiones, Desarrollo  de  Software,  donde  he  trabajado en sistemas web, consolas y de escritorio utilizando las tecnologías .NET de Microsoft.\r\n\r\nMe apasiona el desarrollo, aún más,el aportara la sociedad, y este último sentimiento es el que me empuja, junto a otros excelentes colaboradores, a cofundar la comunidad “**[La Comarca](https://lacomarca.do)**”, que usamos como plataforma para  impulsar y ayudar  en  el desenvolvimiento profesional  de  las  personas  y  permitirle  hasta al más principiante,obtener una experiencia colectiva.",
       "charla": "Inyectando esteroides a tu Web API en .NET Core con OData",
       "abstract": "Imagina un API que retorna mas de 1K objetos, con 10 campos, pero a algunos clientes les interesa los últimos 10 objetos y 5 campos. ¿Qué opciones tienes?, desarrollar otro Endpoint o filtra del lado del cliente. OData te soluciona ambos, por eso deseo compartir este estándar de consulta de datos.",
