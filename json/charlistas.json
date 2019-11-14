@@ -25,6 +25,7 @@
     },
     {
       "nombre": "Gabriel Acosta Nuñez",
+      "bio":"",
       "imagen": "../img/charlistas/gabrielacosta.jpg",
       "charla": "Building App Xamirn forms Using Uno platform",
       "formato": "Talk (~30-45 minutes)",
