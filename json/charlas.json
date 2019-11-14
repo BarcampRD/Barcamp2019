@@ -3,6 +3,7 @@
     {
       "nombre": "Ever Miguel Curiel",
       "charla": "A friendly introduction to QA",
+      "hora": "10:00 AM",
       "formato": "Talk (~30-45 minutes)",
       "audienceLevel": "All",
       "abstract": "In the last decade QA has become one of the most fast growing careers in the tech industry at Dominican Republic.That's why now its an excellent time to become a SQA professional and build world wide reference as our country grow and continues building high quality software.",
@@ -23,6 +24,7 @@
     },
     {
       "nombre": "Gabriel Acosta Nuñez",
+      "hora": "10:00 AM",
       "charla": "Building App Xamirn forms Using Uno platform",
       "formato": "Talk (~30-45 minutes)",
       "audienceLevel": "All",
@@ -43,6 +45,7 @@
     },
     {
       "nombre": "Rafael Miguel Dorville Collado",
+      "hora": "09:00 AM",
       "charla": "Análisis de Redes Sociales",
       "abstract": "Hoy en día vivimos en un mundo en que los individuos, las instituciones y los grupos están interconectados. Los patrones de conexión entre elementos forman un “espacio social” que se aprecia en múltiples contextos,  pudiendo estudiar la influencia de un individuo dentro de su circulo.",
       "formato": "Talk (~30-45 minutes)",
@@ -68,6 +71,7 @@
     },
     {
       "nombre": "Luis Cesar Contreras",
+      "hora": "11:00 AM",
       "Pais": "Dominican Republic",
       "abstract": "Algunas veces resulta díficil saber y seguir el state actual de tu SPA (Single Page Application). Usualmente, te ayudas del uso de un sin numero de flags (booleans) para tomar decisiones sobre el state de tu app. Con XState, puedes simplificar esta situación, usando Máquinas de Estado.",
       "charla": "Better state handling for React applications using XState",
@@ -88,6 +92,7 @@
     },
     {
       "nombre": "Luis Contreras",
+      "hora": "09:00 AM",
       "bio": "System Administrator in a mixed environment (Linux & Windows), with strong knowledge in databases. Adding automation tool like Ansible and monitoring tool like Nagios, Centreon and Op5. I enjoy to work in a dynamic environment where everyday there is something new to learn. I have a proven experience in System / Network Administration, and developing monitoring projects, including complex integrations and developing Nagios plugins in Python, PHP and PowerShell. My experience is based in Retail, Government, Health and IT Services industry. I'm currently holding the following certifications: MTA, LPI, NCA, NCP, NSE-1, NSE-2, NSE-3 ",
       "Pais": "Dominican Republic",
       "charla": "¿Como me converti en integrador?",
@@ -111,6 +116,7 @@
     },
     {
       "nombre": "Yhorby Matias",
+      "hora": "09:00 AM",
       "charla": "Build intelligents Apps",
       "abstract": "Learn how to Microsoft's cloud platform to build data-driven intelligent apps and how to leverage innovative scalable Cloud Backend Services for your applications.",
       "formato": "Talk (~30-45 minutes)",
@@ -140,6 +146,7 @@
     },
     {
       "nombre": "Luis Miguel Burdier",
+      "hora": "04:00 PM",
       "Pais": "Dominican Republic, Bonao",
       "charla": "Cásate con Flask y Python.",
       "abstract": "No nos compliquemos, usemos Flask y Python para proyectos rápidos y divertidos o para tus proyectos universitarios...O para tu empresa. Será  divertido.",
@@ -165,6 +172,7 @@
     },
     {
       "nombre": "Raul Montero",
+      "hora": "02:00 PM",
       "abstract": "No todo es 200 OK. Debemos preparar nuestras apps para que sean tolerantes a fallos de red, pudiendo funcionar a pesar de estos.Trabajar offline, registrar errores y deshabitar funcionalidades son algunas estrategias que estaremos viendo para evitar a toda costa los fallos y perdida de información",
       "charla": "Creando apps tolerantes a las fallas de conexión",
       "formato": "Workshop (> 60 minutes)",
@@ -190,6 +198,7 @@
     },
     {
       "nombre": "Luis Matos",
+      "hora": "11:00 AM",
       "Pais": "Dominican Republic",
       "charla": "Introduction to the Blockchain world",
       "abstract": "A lot of people want to get involved in this new blockchain's era. Today you can improve the security and trust offered to users by creating smart applications connected to a blockchain. Now it’s time to get the next level without getting out of your environment. Are you ready?",
@@ -226,6 +235,7 @@
     },
     {
       "nombre": "Aluis Marte",
+      "hora": "09:00 AM",
       "Pais": "Dominican Republic",
       "abstract": "Eres amante del desarrollo de aplicaciones web en java, pero quieres tener componentes web sin dejar de lado las facilidades que entrega JAVA? Entonces Vaadin 14, Spring Boot y esta charla te mostrarán como hacer posible esta integración con muy pocas lineas de código y obtener resultados rápidos.",
       "charla": "Java, Spring Boot y Vaadin 14",
@@ -249,6 +259,7 @@
     },
     {
       "nombre": "Shailyn Ortiz",
+      "hora": "04:00 PM",
       "charla": "Jenkins-X: Kubernetes GitOps!",
       "formato": "Talk (~30-45 minutes)",
       "abstract": "Keeping up with cloud technologies isn't easy, implementing them takes time, increase the complexity and requires a certain lever of expertise to successfully implement them. What If there is an easier way? Join me in this talk and learn how jenkins-x can provide easy kubenertes cluster management.",
@@ -271,6 +282,7 @@
     },
     {
       "nombre": "Juan Thomas Angel y Jose Manuel Martinez",
+      "hora": "02:00 PM",
       "abstract": "¿Eres uno de miles desarrolladores que entienden que han invertido demasiado tiempo escribiendo código repetitivo? Que en esta desconferencia aprenderás cómo Framework LoopBack 4 te ayudará a mejorar tu productividad y te asegurará una construcción robusta de tus API’s REST en cuestión de minutos.",
       "charla": "Loopback 4: Tu REST API en minutos",
       "formato": "Talk (~30-45 minutes)",
@@ -287,6 +299,7 @@
     },
     {
       "nombre": "Candy Marte García",
+      "hora": "05:00 PM",
       "abstract": "Sesgo de supervivencia, es cuando miramos las cosas que sobrevivieron cuando deberíamos centrarnos en las que no. Este fenómeno impacta negativamente la vida profesional ya que a la hora de hacer correcciones no se ataca lo más importante. En esta charla descubriremos cómo identificarlo y superarlo.",
       "charla": "Sesgo de supervivencia y cómo superarlo",
       "formato": "Talk (~30-45 minutes)",
@@ -308,6 +321,7 @@
     },
     {
       "nombre": "Valmis Di Carlo Hidalgo",
+      "hora": "02:00 PM",
       "abstract": "La Ciberseguridad en las empresas es una de las ramas de las Tecnologíás de la Información más descuidadas por falta de asesoramiento y altos conocimientos en el campo laboral, con nuestra charla vamos a concientizar a los espectadores la importancia de esta área y sus  tecnologías.",
       "charla": "Tecnologías y Prácticas de Ciberseguridad para Empresas",
       "formato": "Talk (~30-45 minutes)",
@@ -333,6 +347,7 @@
     },
     {
       "nombre": "Mitra Mejia",
+      "hora": "02:00 PM",
       "abstract": "Las habilidades técnicas y la experiencia solo te llevarán hasta cierto punto. Esta charla expone las características de comportamiento críticas y mentalidades que los distinguen a los buenos desarrolladores de la multitud.",
       "charla": "Top Developer Habits",
       "formato": "Talk (~30-45 minutes)",
@@ -355,6 +370,7 @@
     {
       "nombre": "Ramiro Pulgar",
       "Pais": "Ecuador",
+      "hora": "04:00 PM",
       "abstract": "Esta presentación está enfocada a dar dirección al área operativa de un CSIRT/SOC para implementar herramientas Open Source alineadas al NIST Cyber Security Framework.",
       "charla": "Tu CSIRT en un chasquido con Open Source",
       "formato": "Talk (~30-45 minutes)",
@@ -383,6 +399,7 @@
     },
     {
       "nombre": "Gregory Pilar",
+      "hora": "04:00 PM",
       "charla": "Zero-Downtime Web Apps for ASP .NET Core",
       "abstract": "En toda aplicación hay un momento donde se debe hacer alguna actualización, en ese punto surge la pregunta, ¿cómo hacerla sin impactar? Veamos que podemos utilizar para hacer actualizar una aplicación sin tener que hacer sacar la aplicación fuera de línea, o al menos que nadie se dé cuenta.",
       "formato": "Talk (~30-45 minutes)",
@@ -409,6 +426,7 @@
     },
     {
       "nombre": "Franklin Castillo",
+      "hora": "03:00 PM",
       "charla": "JAMstack, the new Modern Web Architecture",
       "abstract": "JAMstack es una arquitectura moderna de desarrollo web. No es un lenguaje de programación ni ninguna forma de herramienta. Es más una práctica de desarrollo web destinada a hacer cumplir un mejor rendimiento, una mayor seguridad, un menor costo de escala y una mejor experiencia del desarrollador.",
       "formato": "Talk (~30-45 minutes",
@@ -438,6 +456,7 @@
     },
     {
       "nombre": "Juan Carlos Camacho",
+      "hora": "10:00 AM",
       "charla": "Flutter's here!",
       "abstract": "Nowadays, mobile users expect their applications to have a beautiful design + smooth animations + great performance to offer developers the need to create a new feature faster than ever without compromising quality or performance. With flutter you can develop IOS, Android and Google fuchsia apps.",
       "formato": "Talk (~30-45 minutes)",
@@ -458,6 +477,7 @@
     },
     {
       "nombre": "Robert Lluberes",
+      "hora": "03:00 PM",
       "charla": "Inyectando esteroides a tu Web API en .NET Core con OData",
       "abstract": "Imagina un API que retorna mas de 1K objetos, con 10 campos, pero a algunos clientes les interesa los últimos 10 objetos y 5 campos. ¿Qué opciones tienes?, desarrollar otro Endpoint o filtra del lado del cliente. OData te soluciona ambos, por eso deseo compartir este estándar de consulta de datos.",
       "formato": "Talk (~30-45 minutes)",
@@ -484,6 +504,7 @@
     },
     {
       "nombre": "Eudris Cabrera Rodriguez",
+      "hora": "10:00 AM",
       "charla": "Seguridad para aplicaciones Web Java con JSON Web Tokens (JWT)",
       "bio": "Ingeniero Telemático (Egresado de PUCMM). Actualmente Desarrollador Informático en el Ministerio de Hacienda de la República Dominicana.  Entusiasta de la tecnología y el software libre, desarrollador Java, instructor ocasional (Java / Linux), aficionado del béisbol/sóftbol y los bailes latinos.\r\n\r\nGanador de la beca Linux Training Scholarship 2014 en la categoría Developer Do-Gooder. Miembro asociado del JCP (Java Community Process).  Co-fundador / Organizador del grupo de usuarios Java (Java User Group )  \"Java Dominicano\"\r\n\r\nEn el tiempo libre, escribe artículos, realiza charlas y ayuda en la revisión de documentación técnica en el mundo Java y el código abierto.\r\n",
       "audienceLevel": "Intermediate",
@@ -511,6 +532,7 @@
     },
     {
       "nombre": "Max Almonte",
+      "hora": "03:00 PM",
       "charla": "Mejoras prácticas en el desarrollo de APIs REST",
       "abstract": "El desarrollo de APIs REST es cada vez más extendido en el mundo del desarrollo de software debido al auge de las aplicaciones móviles y SPAs, por desgracia muchas de estas APIs no siguen los estándares REST y terminan volviéndose un dolor de cabeza, propongo dar a conocer las mejores prácticas.",
       "formato": "Talk (~30-45 minutes)",
@@ -538,6 +560,7 @@
     },
     {
       "nombre": "Lisibonny Beato",
+      "hora": "10:00 AM",
       "charla": "Procesamiento de Lenguaje Natural con Python: un vistazo a la librería Pattern",
       "abstract": "El Procesamiento de Lenguaje Natural (NLP, por sus siglas en inglés) es un campo de la ciencias de la computación con gran auge, dada las importantes aplicaciones que tiene en la era de la Web 2.0. En esta charla/taller veremos la librería Pattern de Python para abordar tareas de NLP mediante un enfoque muy práctico, donde los participantes tendrán la oportunidad de interactuar con la librería.",
       "formato": "Workshop (> 60 minutes)",
@@ -550,17 +573,18 @@
     },
     {
       "nombre": "Hector Ventura",
+      "hora": "11:00 AM",
       "formato": "Talk (~30-45 minutes",
       "audienceLevel": "All",
       "bio": "Más de 10 años de experiencia en diseño y arquitectura de software. \n - Más 10 años de experiencias en tecnologías Java.       -        Egresado de la escuela de informática en UASD       -        Profesor ITLA Santiago.       -        Miembro de: -        Fundación Código Libre Dominicana (FCLD)-        Comunidad Java Dominicano. Soy apasionado de la lectura y la tecnología. Fiel seguidor de la solución a los problemas. Amante del buen código y el café, y sobretodo la soledad.@hectorvent(telegram, twitter,  github, gmail",
       "charla": "Quarkus, Supersónico y Subatómico Java Cloud Native Framework",
       "abstract": "Sabemos que Java sigue presente en muchas áreas y empresas, pero con el auge de las tecnologías en las nubes, los contenedores y las funciones o serverless como se le conocen, Java ha perdido terreno.",
       "description": ""
-    
     },
     {
       "nombre": "Juan Jose Polanco Arias",
       "bio": "",
+      "hora": "04:00 PM",
       "charla": "GDPR (General Data Protection Regulation)",
       "abstract": "es una regulación de privacidad datos de la Union Europea que entro en vigencia el 25 de Mayo de 2018, cuyo objetivo darle poder al usuario de decidir si alguna aplicacion (web, movil, etc.) pueden recolectar sus datos y que tambien dicta el manejo adecuado que las companias tecnológicas que recolectan esos datos deben darle a los mismos.",
       "description": "",
@@ -569,6 +593,7 @@
     },
     {
       "nombre": "Freddy Peña",
+      "hora": "09:00 AM",
       "bio": "- Java Developer y IT Manager, con más 10 años de experiencia en desarrollo bajo tecnología Java \n - Más de 4 años de experiencia administrando e implementando proyecto con SAP Business One \n - Amante del Open Source \n- Graduado de informática, con un Máster en Ingeniería Web. \n- Profesor en PUCMM y el TEP \n- Mimbro de la comunidad Código Libre Dominicana",
       "charla": "Arquitectura reactiva (Vert.x): Diseñando API RESTful",
       "abstract": "En esta desconferencia vamos a conocer el concepto de aplicaciones reactivas, y se mostrara como diseñar y consumir un API RESTful a través del protocolo HTTP, utilizando Vert.x basándose en arquitectura reactiva.",
@@ -588,7 +613,6 @@
           "icon": "fab fa-github-alt",
           "name": "Github",
           "link": "https://github.com/fredpena"
-          
         },
         {
           "icon": "fab fa-twitter",
@@ -599,6 +623,7 @@
     },
     {
       "nombre": "Carlos Camacho",
+      "hora": "02:00 PM",
       "bio": "Más de 11 años de experiencia en desarrollo de software bajo la plataforma Java, implementación de proyectos de código libre y desarrollo e integración de proyectos embedidos en Arduino y Raspberry Pie. Graduado de Ingeniería Telemática, Master en Tecnología Educativa. Profesor de las carreras de Ingeniería de Sistemas y Computación e Ingeniería Telemática de la PUCMM. Actualmente es el Director de la escuela de Ingeniería en Computación y Telecomunicaciones Campus Santiago PUCMM. Miembro de la Fundación Código Libre y Cofundador de Java User Group, Java Dominicano.",
       "charla": "",
       "abstract": "",
@@ -610,12 +635,12 @@
           "icon": "fab fa-github-alt",
           "name": "Github",
           "link": "https://github.com/vacax"
-          
         }
       ]
     },
     {
       "nombre": "Fidelia Matos",
+      "hora": "11:00 AM",
       "bio": "8+ años como desarrolladora de software. Facilitadora y directora de operaciones de Code4Ladies. Miembro activo de Mujeres TICs RD. Voluntaria de GDG Santo Domingo. Ganadora del premio de mención honorífica en el Startup Weekend Fintech 2019. Graduada con honores de Técnico Profesional en Informática.",
       "charla": "Paquete UTL_FILE: Manejando Archivos de Textos con PL/SQL",
       "abstract": "Imaginemos, tenemos que crear un proceso que consulte una BD y escriba la info en un archivo de texto; o que lea un archivo para insertar la data en la BD. La mayoría de los programadores lo codifican con un lenguaje de backend, pero ¿y si te digo es más fácil y rápido codificarlo desde la misma BD?",
@@ -633,7 +658,6 @@
           "icon": "fab fa-linkedin",
           "name": "Linkedin",
           "link": "https://www.linkedin.com/in/fideliamatos"
-          
         },
         {
           "icon": "fab fa-twitter",

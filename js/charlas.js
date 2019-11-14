@@ -46,7 +46,7 @@ function createCharlasCard(charlistaJson) {
     var speakerHtml =
         "<li> " +
         "<div class=\"row justify-content-evenly\">" +
-        "<div class=\"col-lg-2\"> <p class='date'></p> </div>" +
+        "<div class=\"col-lg-2\"> <p class='date'></p> " + charlistaJson.hora + " </div>" +
         "<div class='col-lg-9'>" +
         "<h5>" + charlistaJson.charla + "</h5>" +
         "<p><i>Por: " + charlistaJson.nombre + "</i></p>" +
