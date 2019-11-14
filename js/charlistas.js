@@ -30,6 +30,7 @@ function charlistas() {
 
 function createCharlistaCard(charlistaJson, index) {
 
+    console.log('ruta: ' + charlistaJson.imagen);
 
     var speakerHtml = "<div class=\"col-xl-3 col-lg-4 col-md-6 col-sm-6 col-xs-8\">" +
         "<div class=\"charlista\" style='background-image:url(" +  charlistaJson.imagen + ");'>" +
