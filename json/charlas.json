@@ -410,7 +410,7 @@
     {
       "nombre": "Ever Miguel Curiel",
       "charla": "A friendly introduction to QA",
-      "hora": "09:00 AM",
+      "hora": "10:00 AM",
       "formato": "Talk (~30-45 minutes)",
       "audienceLevel": "All",
       "abstract": "In the last decade QA has become one of the most fast growing careers in the tech industry at Dominican Republic.That's why now its an excellent time to become a SQA professional and build world wide reference as our country grow and continues building high quality software.",
@@ -431,7 +431,7 @@
     },
     {
       "nombre": "Yhorby Matias",
-      "hora": "10:00 AM",
+      "hora": "11:00 AM",
       "charla": "Build intelligents Apps",
       "abstract": "Learn how to Microsoft's cloud platform to build data-driven intelligent apps and how to leverage innovative scalable Cloud Backend Services for your applications.",
       "formato": "Talk (~30-45 minutes)",
