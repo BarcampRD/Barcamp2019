@@ -109,7 +109,7 @@
     },
     {
       "nombre": "Hector Ventura",
-      "hora": "11:00 AM",
+      "hora": "10:00 AM",
       "formato": "Talk (~30-45 minutes",
       "audienceLevel": "All",
       "bio": "Más de 10 años de experiencia en diseño y arquitectura de software. \n - Más 10 años de experiencias en tecnologías Java.       -        Egresado de la escuela de informática en UASD       -        Profesor ITLA Santiago.       -        Miembro de: -        Fundación Código Libre Dominicana (FCLD)-        Comunidad Java Dominicano. Soy apasionado de la lectura y la tecnología. Fiel seguidor de la solución a los problemas. Amante del buen código y el café, y sobretodo la soledad.@hectorvent(telegram, twitter,  github, gmail",
@@ -157,6 +157,30 @@
           "icon": "fab fa-twitter",
           "name": "Twitter",
           "link": "http://twitter.com/mitramejia"
+        }
+      ]
+    },
+    {
+      "nombre": "Dewyn Liriano y Cesar Vargas",
+      "hora": "03:00 PM",
+      "abstract": "",
+      "charla": "How the fashion industry regained its soul: App development with emergent behavior no-coding",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "Resonance"
+      ],
+      "description": "Join us in this desconference to learn how at Resonance we are revolutionizing a $3 trillion global industry. The fashion industry has not changed in more than 40 years, and it is one the most polluting industries. It has also lost it's soul by leaving creators behind At Resonance we have re-imagined what it means to write software. By using a learning framework, Resonance is changing the game by providing a creation-driven platform (ONE) that allows creators and brands worldwide to Create, Sell and Make (in that order!) elevated, sustainable and beautiful fashion - reducing the manufacturing time from 9 month to just 6 days. With our disruptive ideas we are not only changing the game we are also changing the way software is built. We will be showcasing a live video and demonstration of ONE so please come to learn and experience how we are Doing Something Really F* Big from Santiago. Creation-driven fashion is the future. LVMH, Inditex, Amazon Fashion, Nike are the Goliath, we are David.",
+      "socials": [
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/cavp28/"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "http://twitter.com/dewynliriano"
         }
       ]
     },
