@@ -54,16 +54,18 @@ function createCharlistaCard(charlistaJson, index) {
 
     speakerHtml += '<a class="more" id="biography_'+index+'">Ver Biografia<span class="icon-arrow-right"></span></a>';
 
-    speakerHtml +=  '<div class="modal-biography"  id="modal_biography_'+index+'">     <div class="modal-content">         <div class="modal-header"><div class="row">                 <div class="col-lg-5 col-md-6 col-sm-6">  <img src="'+charlistaJson.imagen+'" class="img-fluid"></div><div class="col-lg-6 col-md-6 col-sm-6 pt-4"><h5>'+ charlistaJson.nombre +'</h5><div class="social">';
-  
-    for (i in charlistaJson.socials) {
-        speakerHtml += '<a href="' + charlistaJson.socials[i].link + '" target="_blank"> <span><i class="' + charlistaJson.socials[i].icon + '"></i></span></a> ';
-    }
-
-    speakerHtml += '</div></div></div></div><div class="modal-body"><p>'+charlistaJson.bio+'</p><a href="#" class="hide-modal"><span class="icon-arrow-left"></span>Ocultar Biografia</a></div></div></div>';
     speakerHtml +="</div>" +
         "</div>" +
         "</div>";
+
+        speakerHtml +=  '<div class="modal-biography"  id="modal_biography_'+index+'">     <div class="modal-content">         <div class="modal-header"><div class="row">                 <div class="col-lg-5 col-md-6 col-sm-6">  <img src="'+charlistaJson.imagen+'" class="img-fluid"></div><div class="col-lg-6 col-md-6 col-sm-6 pt-4"><h5>'+ charlistaJson.nombre +'</h5><div class="social">';
+  
+        for (i in charlistaJson.socials) {
+            speakerHtml += '<a href="' + charlistaJson.socials[i].link + '" target="_blank"> <span><i class="' + charlistaJson.socials[i].icon + '"></i></span></a> ';
+        }
+    
+        speakerHtml += '</div></div></div></div><div class="modal-body"><p>'+charlistaJson.bio+'</p><a href="#" class="hide-modal"><span class="icon-arrow-left"></span>Ocultar Biografia</a></div></div></div>';
+      
 
     return speakerHtml;
 }
