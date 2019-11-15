@@ -14,22 +14,25 @@ function charlas() {
             var sala2 = document.getElementById("tab2");
             var sala3 = document.getElementById("tab3");
             var sala4 = document.getElementById("tab4");
+            var sala5 = document.getElementById("tab5");
 
             for (i in speakersJson.charlas) {
 
-                if (i < 6) {
+                if (i < 4) {
 
                     sala1.innerHTML += createCharlasCard(speakersJson.charlas[i]);
 
-                } else if (i < 12) {
+                } else if (i < 10) {
                     sala2.innerHTML += createCharlasCard(speakersJson.charlas[i]);
 
-                } else if (i < 18) {
+                } else if (i < 16) {
                     sala3.innerHTML += createCharlasCard(speakersJson.charlas[i]);
 
-                } else {
+                } else  if (i < 22){
                     sala4.innerHTML += createCharlasCard(speakersJson.charlas[i]);
 
+                } else {
+                    sala5.innerHTML += createCharlasCard(speakersJson.charlas[i]);
                 }
 
             }
