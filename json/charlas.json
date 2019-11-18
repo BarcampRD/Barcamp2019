@@ -569,13 +569,13 @@
       "charla": "Building App Xamirn forms Using Uno platform",
       "formato": "Talk (~30-45 minutes)",
       "audienceLevel": "All",
-      "abstract": "Using WebAssembly we will give the introduction yo uno platform, si that we can create microservices once we prepare a demo with xamarin forms, compile IOS, Android and web.",
+      "abstract": "El desarrollo de aplicaciones multiplataforma para Windows, iOS, Android y WebAssembly puede ser un proceso complejo, especialmente cuando se trata de la interfaz de usuario. En esta charla descubrirás el potencial de La única plataforma para crear aplicaciones nativas móviles, de escritorio y de WebAssembly con C #, XAML desde una única base de código. Código abierto y profesionalmente compatible.",
       "tags": [
         "Programming",
         "Xamarin",
         "C#"
       ],
-      "description": "What is quality? Where does quality begins? and better yet, why quality? even if these questions sound really basic and simple, the wrong answer to them have created long lasting negative impact over software projects for a long time.",
+      "description": "El desarrollo de aplicaciones multiplataforma para Windows, iOS, Android y WebAssembly puede ser un proceso complejo, especialmente cuando se trata de la interfaz de usuario. Cada plataforma tiene sus propias formas de definir diseños dinámicos, algunos son más eficientes, otros más detallados, algunos más elegantes y otros más eficaces que otros. En esta charla descubrirás el potencial de La única plataforma para crear aplicaciones nativas móviles, de escritorio y de WebAssembly con C #, XAML desde una única base de código. Código abierto y profesionalmente compatible.",
       "socials": [
         {
           "icon": "fab fa-twitter",
