@@ -44,16 +44,32 @@
       "nombre": "Carlos Camacho",
       "hora": "02:00 PM",
       "bio": "Más de 11 años de experiencia en desarrollo de software bajo la plataforma Java, implementación de proyectos de código libre y desarrollo e integración de proyectos embedidos en Arduino y Raspberry Pie. Graduado de Ingeniería Telemática, Master en Tecnología Educativa. Profesor de las carreras de Ingeniería de Sistemas y Computación e Ingeniería Telemática de la PUCMM. Actualmente es el Director de la escuela de Ingeniería en Computación y Telecomunicaciones Campus Santiago PUCMM. Miembro de la Fundación Código Libre y Cofundador de Java User Group, Java Dominicano.",
-      "charla": "",
-      "abstract": "",
-      "description": "",
-      "formato": "Talk (~30-45 minutes)",
-      "audienceLevel": "All",
+      "charla": "Taller sobre coordinación de sistemas distribuidos bajo Spring Cloud",
+      "abstract": "Cada día la nube y las aplicaciones basadas en una arquitectura basada en micro servicios son tendencia en el desarrollo de nuevas aplicaciones, coordinar de forma efectiva cada uno de los componentes puede ser un trabajo muy demandante para equipos pequeños, pero gracias a la tecnologia de Spring Boot con la suite de aplicaciones de Spring Cloud podemos desde el principio y con muy poco esfuerzo crear aplicaciones nativas lista para correr en la nube.",
+      "description": "En nuestro taller estaremos utilizando Spring Boot y las librerías disponible bajo Spring Cloud y Netflix OSS (Open Source Software ) para crear una aplicación funcional y lista para correr en La Nube probando las siguientes tecnologías: - Servidor de Configuración. - Servidor de Descubrimiento de Servicios. - Servidor Perimetral - Balanceador de Carga. - Aplicación Microservicios.",
+      "formato": "Workshop (> 60 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "Java",
+        "Cloud",
+        "Spring Boot",
+        "Spring Cloud"
+      ],
       "socials": [
         {
           "icon": "fab fa-github-alt",
           "name": "Github",
           "link": "https://github.com/vacax"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/ccamachog/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/ccamachog"
         }
       ]
     },
