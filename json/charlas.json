@@ -322,7 +322,7 @@
     {
       "nombre": "Max Almonte",
       "hora": "03:00 PM",
-      "charla": "Mejoras prácticas en el desarrollo de APIs REST",
+      "charla": "Mejores prácticas en el desarrollo de APIs REST",
       "abstract": "El desarrollo de APIs REST es cada vez más extendido en el mundo del desarrollo de software debido al auge de las aplicaciones móviles y SPAs, por desgracia muchas de estas APIs no siguen los estándares REST y terminan volviéndose un dolor de cabeza, propongo dar a conocer las mejores prácticas.",
       "formato": "Talk (~30-45 minutes)",
       "audienceLevel": "All",
@@ -566,7 +566,7 @@
     {
       "nombre": "Gabriel Acosta Nuñez",
       "hora": "10:00 AM",
-      "charla": "Building App Xamirn forms Using Uno platform",
+      "charla": "Building App Xamarin forms Using Uno platform",
       "formato": "Talk (~30-45 minutes)",
       "audienceLevel": "All",
       "abstract": "El desarrollo de aplicaciones multiplataforma para Windows, iOS, Android y WebAssembly puede ser un proceso complejo, especialmente cuando se trata de la interfaz de usuario. En esta charla descubrirás el potencial de La única plataforma para crear aplicaciones nativas móviles, de escritorio y de WebAssembly con C #, XAML desde una única base de código. Código abierto y profesionalmente compatible.",
