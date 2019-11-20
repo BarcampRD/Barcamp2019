@@ -614,6 +614,16 @@
           "icon": "fab fa-github-alt",
           "name": "Github",
           "link": "https://github.com/vacax"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/ccamachog/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/ccamachog"
         }
       ]
     }
