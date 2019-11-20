@@ -77,7 +77,7 @@
       "nombre": "Luis Miguel Burdier",
       "hora": "04:00 PM",
       "Pais": "Dominican Republic, Bonao",
-      "charla": "Cásate con Flask y Python.",
+      "charla": "Cásate con Flask y Python",
       "abstract": "No nos compliquemos, usemos Flask y Python para proyectos rápidos y divertidos o para tus proyectos universitarios...O para tu empresa. Será  divertido.",
       "formato": "Talk (~30-45 minutes)",
       "audienceLevel": "Beginner",
@@ -124,7 +124,7 @@
       ]
     },
     {
-      "nombre": "Hector Ventura",
+      "nombre": "Héctor Ventura",
       "hora": "10:00 AM",
       "formato": "Talk (~30-45 minutes",
       "audienceLevel": "All",
@@ -134,7 +134,7 @@
       "description": ""
     },
     {
-      "nombre": "Luis Cesar Contreras",
+      "nombre": "Luis César Contreras",
       "hora": "11:00 AM",
       "Pais": "Dominican Republic",
       "abstract": "Algunas veces resulta díficil saber y seguir el state actual de tu SPA (Single Page Application). Usualmente, te ayudas del uso de un sin numero de flags (booleans) para tomar decisiones sobre el state de tu app. Con XState, puedes simplificar esta situación, usando Máquinas de Estado.",
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "nombre": "Mitra Mejia",
+      "nombre": "Mitra Mejía",
       "hora": "02:00 PM",
       "abstract": "Las habilidades técnicas y la experiencia solo te llevarán hasta cierto punto. Esta charla expone las características de comportamiento críticas y mentalidades que los distinguen a los buenos desarrolladores de la multitud.",
       "charla": "Top Developer Habits",
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "nombre": "Dewyn Liriano y Cesar Vargas",
+      "nombre": "Dewyn Liriano y César Vargas",
       "hora": "03:00 PM",
       "abstract": "Join us in this desconference to learn how at Resonance we are revolutionizing a $3 trillion global industry. The fashion industry has not changed in more than 40 years, and it is one the most polluting industries. It has also lost it's soul by leaving creators behind At Resonance we have re-imagined what it means to write software. By using a learning framework, Resonance is changing the game by providing a creation-driven platform (ONE) that allows creators and brands worldwide to Create, Sell and Make (in that order!) elevated, sustainable and beautiful fashion - reducing the manufacturing time from 9 month to just 6 days. With our disruptive ideas we are not only changing the game we are also changing the way software is built. We will be showcasing a live video and demonstration of ONE so please come to learn and experience how we are Doing Something Really F* Big from Santiago. Creation-driven fashion is the future. LVMH, Inditex, Amazon Fashion, Nike are the Goliath, we are David.",
       "charla": "How the fashion industry regained its soul: App development with emergent behavior no-coding",
@@ -232,7 +232,7 @@
       "hora": "09:00 AM",
       "bio": "System Administrator in a mixed environment (Linux & Windows), with strong knowledge in databases. Adding automation tool like Ansible and monitoring tool like Nagios, Centreon and Op5. I enjoy to work in a dynamic environment where everyday there is something new to learn. I have a proven experience in System / Network Administration, and developing monitoring projects, including complex integrations and developing Nagios plugins in Python, PHP and PowerShell. My experience is based in Retail, Government, Health and IT Services industry. I'm currently holding the following certifications: MTA, LPI, NCA, NCP, NSE-1, NSE-2, NSE-3 ",
       "Pais": "Dominican Republic",
-      "charla": "¿Como me converti en integrador?",
+      "charla": "¿Cómo me convertí en integrador?",
       "abstract": "Esta charla es sobre he llevado la monitorización al siguiente nivel, y empezar a realizar integraciones, utilizando lenguajes nativo de las herramientas de monitoreo como PHP y Perl. Estaré mostrando algunos ejemplos interesantes.",
       "formato": "Talk (~30-45 minutes)",
       "audienceLevel": "Intermediate",
@@ -310,7 +310,7 @@
       ]
     },
     {
-      "nombre": "Raul Montero",
+      "nombre": "Raúl Montero",
       "hora": "02:00 PM",
       "abstract": "No todo es 200 OK. Debemos preparar nuestras apps para que sean tolerantes a fallos de red, pudiendo funcionar a pesar de estos.Trabajar offline, registrar errores y deshabitar funcionalidades son algunas estrategias que estaremos viendo para evitar a toda costa los fallos y perdida de información",
       "charla": "Creando apps tolerantes a las fallas de conexión",
@@ -446,7 +446,7 @@
       ]
     },
     {
-      "nombre": "Yhorby Matias",
+      "nombre": "Yhorby Matías",
       "hora": "11:00 AM",
       "charla": "Build intelligents Apps",
       "abstract": "Learn how to Microsoft's cloud platform to build data-driven intelligent apps and how to leverage innovative scalable Cloud Backend Services for your applications.",
@@ -529,7 +529,7 @@
       ]
     },
     {
-      "nombre": "Shailyn Ortiz",
+      "nombre": "Shailyn Ortíz",
       "hora": "04:00 PM",
       "charla": "Jenkins-X: Kubernetes GitOps!",
       "formato": "Talk (~30-45 minutes)",
@@ -552,7 +552,7 @@
       ]
     },
     {
-      "nombre": "Eudris Cabrera Rodriguez",
+      "nombre": "Eudris Cabrera Rodríguez",
       "hora": "09:00 AM",
       "charla": "Seguridad para aplicaciones Web Java con JSON Web Tokens (JWT)",
       "bio": "Ingeniero Telemático (Egresado de PUCMM). Actualmente Desarrollador Informático en el Ministerio de Hacienda de la República Dominicana.  Entusiasta de la tecnología y el software libre, desarrollador Java, instructor ocasional (Java / Linux), aficionado del béisbol/sóftbol y los bailes latinos.\r\n\r\nGanador de la beca Linux Training Scholarship 2014 en la categoría Developer Do-Gooder. Miembro asociado del JCP (Java Community Process).  Co-fundador / Organizador del grupo de usuarios Java (Java User Group )  \"Java Dominicano\"\r\n\r\nEn el tiempo libre, escribe artículos, realiza charlas y ayuda en la revisión de documentación técnica en el mundo Java y el código abierto.\r\n",
@@ -580,7 +580,7 @@
       ]
     },
     {
-      "nombre": "Gabriel Acosta Nuñez",
+      "nombre": "Gabriel Acosta Núñez",
       "hora": "10:00 AM",
       "charla": "Building App Xamarin forms Using Uno platform",
       "formato": "Talk (~30-45 minutes)",
@@ -629,7 +629,7 @@
       ]
     },
     {
-      "nombre": "Juan Thomas Angel y Jose Manuel Martinez",
+      "nombre": "Juan Thomas Angel y José Manuel Martinez",
       "hora": "02:00 PM",
       "abstract": "¿Eres uno de miles desarrolladores que entienden que han invertido demasiado tiempo escribiendo código repetitivo? Que en esta desconferencia aprenderás cómo Framework LoopBack 4 te ayudará a mejorar tu productividad y te asegurará una construcción robusta de tus API’s REST en cuestión de minutos.",
       "charla": "Loopback 4: Tu REST API en minutos",
@@ -676,7 +676,7 @@
       ]
     },
     {
-      "nombre": "Juan Jose Polanco Arias",
+      "nombre": "Juan José Polanco Arias",
       "bio": "",
       "hora": "04:00 PM",
       "charla": "GDPR (General Data Protection Regulation)",

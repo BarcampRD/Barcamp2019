@@ -24,7 +24,7 @@
       ]
     },
     {
-      "nombre": "Gabriel Acosta Nuñez",
+      "nombre": "Gabriel Acosta Núñez",
       "bio":"Gabriel Acosta es Desarrollador de Software con maestría en sistema y computación mención gerencial y postgrado en auditoria de TI. Experiencias en trabajando en BDDB , Web Form, Api Rest, Xamarin; participante activo de las comunidadades de TI.",
       "imagen": "../img/charlistas/gabrielacosta.jpg",
       "charla": "Building App Xamirn forms Using Uno platform",
@@ -127,7 +127,7 @@
       "description": "El Procesamiento de Lenguaje Natural (NLP, por sus siglas en inglés) se refiere a la manipulación del lenguaje mediante el uso de computadoras y el objetivo es encontrar mecanismos eficaces para la comunicación entre los humanos y las maquinas mediante el uso del lenguaje natural. El NLP es una confluencia de distintas disciplinas tales como las Ciencias de la Computación, la lingüística, la estadística, entre otras. Con la explosión que ha sucedido en los últimos años en la generación de datos textuales que son almacenados en medios electrónicos gracias a las Redes Sociales y a otras plataformas, esta área se ha convertido en una de mucho interés. Tareas como la traducción automática de textos, la clasificación de textos con distintos fines (filtrado de spam, categorización de documentos por tópicos, análisis de sentimientos, entre otros ), la recuperación de información, el entendimiento y generación de lenguaje natural (para el diseño de Bots, por ejemplo, la extracción de información y los correctores automáticos son solo algunos ejemplos de las aplicaciones que tiene este campo. Python, por su naturaleza, es un lenguaje poderosísimo para trabajar con texto escrito. En esta charla proponemos dar un vistazo a las principales tareas de NLP y específicamente mostrar de manera práctica y mediante la librería Pattern de Python como estas tareas pueden acometerse tanto para textos escritos en el idioma inglés como en el español, con los distintos recursos que esta ofrece."
     },
     {
-      "nombre": "Luis Cesar Contreras",
+      "nombre": "Luis César Contreras",
       "bio": "Luis is from Santo Domingo, Dominican Republic. He works as a Frontend Web Developer at Instacarro. He has 9 years of professional experience as a Web Developer with a focus on UI development. He loves Javascript, CSS, and talking about code. When Luis is not coding, you can find him watching baseball games, he is a huge fan of the New York Mets. He is an avid reader and always is learning new things.  ",
       "Pais": "Dominican Republic",
       "imagen": "../img/charlistas/luiscersarcontreras.jpg",
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "nombre": "Eudris Cabrera Rodriguez",
+      "nombre": "Eudris Cabrera Rodríguez",
       "title": "Seguridad para aplicaciones Web Java con JSON Web Tokens (JWT)",
       "imagen": "../img/charlistas/eudris_cabrera.jpg",
       "bio": "Ingeniero Telemático (Egresado de PUCMM). Actualmente Desarrollador Informático en el Ministerio de Hacienda de la República Dominicana.  Entusiasta de la tecnología y el software libre, desarrollador Java, instructor ocasional (Java / Linux), aficionado del béisbol/sóftbol y los bailes latinos.\r\n\r\nGanador de la beca Linux Training Scholarship 2014 en la categoría Developer Do-Gooder. Miembro asociado del JCP (Java Community Process).  Co-fundador / Organizador del grupo de usuarios Java (Java User Group )  \"Java Dominicano\"\r\n\r\nEn el tiempo libre, escribe artículos, realiza charlas y ayuda en la revisión de documentación técnica en el mundo Java y el código abierto.\r\n",
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "nombre": "Yhorby Matias",
+      "nombre": "Yhorby Matías",
       "bio": "Short bio:\r\nEl Lobo 🐺 \r\nEx- Microsoft MVP 🙏\r\nSenior Software Engineer.\r\nCloud developer ☁️ \r\nPúblic Speaker\r\n\r\n\r\nLong bio:\r\n\r\nYhorby Matías is Microsoft MVP and Currently works as a Senior Software Engineer for iScribeHealth, he started to develop software in 2010 for the .NET platform, he focused on this technology to become an expert, now he is focused on the Azure and NET Core development platform.\r\nIn addition to being a developer, he also likes to play with Linux, he wrote his first program in Visual Basic 6.0. When you are not coding, you are creating new content for your blog, the Youtube channel and some projects in which you collaborate.",
       "charla": "Build inteligents Apps",
       "imagen": "../img/charlistas/yhorby_matias.jpg",
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "nombre": "Raul Montero",
+      "nombre": "Raúl Montero",
       "bio": "Desarrollador movíl senior, especializado en tecnologia multiplataforma con dotnet y xamarin.",
       "charla": "Creando apps tolerantes a las fallas de conexión",
       "imagen": "../img/charlistas/raul_montero.jpg",
@@ -375,7 +375,7 @@
       ]
     },
     {
-      "nombre": "Shailyn Ortiz",
+      "nombre": "Shailyn Ortíz",
       "imagen": "../img/charlistas/sharlyn_ortiz.jpg",
       "bio": "Hey,\r\n\r\nwhy should some listen this random dude?\r\nWell, not like I'm rocket scientist, but I can show you a couple of tricks about being a devops and what can python do for an enterprise devops.\r\nAt the end, I'm just a guy that love python and Go, and love it's job.",
       "charla": "Jenkins-X: Kubernetes GitOps!",
@@ -398,7 +398,7 @@
       ]
     },
     {
-      "nombre": "Juan Thomas Angel y Jose Manuel Martinez",
+      "nombre": "Juan Thomas Angel y José Manuel Martinez",
       "imagen": "../img/charlistas/juan_angel_jose_manuel.jpg",
       "charla": "Loopback 4: Tu REST API en minutos",
       "formato": "Talk (~30-45 minutes)",
@@ -452,7 +452,7 @@
       ]
     },
     {
-      "nombre": "Mitra Mejia",
+      "nombre": "Mitra Mejía",
       "bio": "Soy un desarrollador con fluidez en Javascript, Ruby, PHP y Kotlin. Actualmente trabajo con React Native a diario. He estado trabajando de forma remota durante los últimos 5 años. ",
       "charla": "Top Developer Habits",
       "imagen": "../img/charlistas/mitra_mejia.jpg",
@@ -521,7 +521,7 @@
       ]
     },
     {
-      "nombre": "Juan Jose Polanco Arias",
+      "nombre": "Juan José Polanco Arias",
       "bio": "",
       "imagen": "../img/charlistas/juanjosepolanco.jpeg",
       "charla": "GDPR (General Data Protection Regulation)",
@@ -584,7 +584,7 @@
       ]
     },
     {
-      "nombre": "Dewyn Liriano y Cesar Vargas",
+      "nombre": "Dewyn Liriano y César Vargas",
       "imagen": "../img/charlistas/dewyn_y_cesar.jpg",
       "bio": "César Vargas: \nSoy Ingeniero de Sistemas y Computación graduado de la PUCMM con más de 4 años de experiencia profesional como desarrollador de software en el mercado nacional e internacional. Me gustan los fun facts y los grandes retos. Soy Lead Developer en Resonance Companies.\nDewyn Liriano:\nIngeniero de Sistemas y Computación graduado de la PUCMM. Software Engineer en Resonance Companies. Sell squad lead en República Dominicana. Doing Something Really Big.",
       "charla": "",
