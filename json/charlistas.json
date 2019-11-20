@@ -148,7 +148,7 @@
       "nombre": "Luis Contreras",
       "bio": "System Administrator in a mixed environment (Linux & Windows), with strong knowledge in databases. Adding automation tool like Ansible and monitoring tool like Nagios, Centreon and Op5. I enjoy to work in a dynamic environment where everyday there is something new to learn. I have a proven experience in System / Network Administration, and developing monitoring projects, including complex integrations and developing Nagios plugins in Python, PHP and PowerShell. My experience is based in Retail, Government, Health and IT Services industry. I'm currently holding the following certifications: MTA, LPI, NCA, NCP, NSE-1, NSE-2, NSE-3 ",
       "Pais": "Dominican Republic",
-      "imagen": "../img/charlistas/luis_contreras.jpg",
+      "imagen": "../img/charlistas/luis_contreras.png",
       "charla": "¿Como me convertí en integrador?",
       "abstract": "Esta charla es sobre he llevado la monitorizaciÃ³n al siguiente nivel, y empezar a realizar integraciones, utilizando lenguajes nativo de las herramientas de monitoreo como PHP y Perl. EstarÃ© mostrando algunos ejemplos interesantes.",
       "formato": "Talk (~30-45 minutes)",
@@ -237,7 +237,7 @@
     },
     {
       "nombre": "Juan Carlos Camacho",
-      "imagen": "../img/charlistas/juan_carlos_camacho.jpg",
+      "imagen": "../img/charlistas/juan_carlos_camacho.jpeg",
       "charla": "Flutter's here!",
       "bio": "My name’s Juan Carlos Camacho De Los Santos, I’m Software developer \r\n\r\n**Background**\r\n\r\n - +8 years experience\r\n - Backend / Frontend Developer\r\n - Mobile Developer\r\n - Master’s degree, Management and Productivity\r\n - Specialty, Business Administration and Management General\r\n - Systems Engineering\r\n\r\n**Why do you want people to know about you?** \r\n\r\nFor me it is more important to contribute to technological trends, the country and for the community to continue growing.\r\nI'm not looking for fame or anything like that, and only with effort and work will people recognize me as someone who has put their grain of sand for youth.\r\n\r\n**Who's your favorite member of One Direction?**\r\nI don't know any member of that group\r\n",
       "abstract": "Nowadays, mobile users expect their applications to have a beautiful design + smooth animations + great performance to offer developers the need to create a new feature faster than ever without compromising quality or performance. With flutter you can develop IOS, Android and Google fuchsia apps.",
