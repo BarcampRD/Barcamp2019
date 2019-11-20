@@ -237,7 +237,7 @@
     },
     {
       "nombre": "Juan Carlos Camacho",
-      "imagen": "../img/charlistas/juan_carlos_camacho.jpeg",
+      "imagen": "../img/charlistas/juan_carlos_camacho.jpg",
       "charla": "Flutter's here!",
       "bio": "My name’s Juan Carlos Camacho De Los Santos, I’m Software developer \r\n\r\n**Background**\r\n\r\n - +8 years experience\r\n - Backend / Frontend Developer\r\n - Mobile Developer\r\n - Master’s degree, Management and Productivity\r\n - Specialty, Business Administration and Management General\r\n - Systems Engineering\r\n\r\n**Why do you want people to know about you?** \r\n\r\nFor me it is more important to contribute to technological trends, the country and for the community to continue growing.\r\nI'm not looking for fame or anything like that, and only with effort and work will people recognize me as someone who has put their grain of sand for youth.\r\n\r\n**Who's your favorite member of One Direction?**\r\nI don't know any member of that group\r\n",
       "abstract": "Nowadays, mobile users expect their applications to have a beautiful design + smooth animations + great performance to offer developers the need to create a new feature faster than ever without compromising quality or performance. With flutter you can develop IOS, Android and Google fuchsia apps.",
@@ -523,7 +523,7 @@
     {
       "nombre": "Juan Jose Polanco Arias",
       "bio": "",
-      "imagen": "../img/charlistas/juanjosepolanco.jpg",
+      "imagen": "../img/charlistas/juanjosepolanco.jpeg",
       "charla": "GDPR (General Data Protection Regulation)",
       "abstract": "es una regulación de privacidad datos de la Union Europea que entro en vigencia el 25 de Mayo de 2018, cuyo objetivo darle poder al usuario de decidir si alguna aplicacion (web, movil, etc.) pueden recolectar sus datos y que tambien dicta el manejo adecuado que las companias tecnológicas que recolectan esos datos deben darle a los mismos.",
       "description": "",
