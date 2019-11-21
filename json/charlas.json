@@ -101,6 +101,7 @@
     },
     {
       "nombre": "Aluis Marte",
+      "bio":"Soy un apasionado Ingeniero con más 4+ años de experiencia desarrollando aplicaciones en Java y Android con perfil Web, Desktop y Mobile. Me fascina el hecho de afrontar retos bien complejos sin importar la dificultad en temas con alto nivel matemático, algorítmico y código limpio.",
       "hora": "09:00 AM",
       "Pais": "Dominican Republic",
       "abstract": "Eres amante del desarrollo de aplicaciones web en java, pero quieres tener componentes web sin dejar de lado las facilidades que entrega JAVA? Entonces Vaadin 14, Spring Boot y esta charla te mostrarán como hacer posible esta integración con muy pocas lineas de código y obtener resultados rápidos.",
